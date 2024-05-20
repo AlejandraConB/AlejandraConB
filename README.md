@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi! I'm a Full Stack Developer, my name is Alejandra. 👋
 
-¡Hola! Mi nombre es Alejandra soy Desarrolladora Web.
+¡Hola! Mi nombre es Alejandra, soy Desarrolladora Web. :blue_heart:
 
 - 🔭 I’m currently working on my website.
 - 🌱 I’m currently learning Node.js and about the Cloud.
