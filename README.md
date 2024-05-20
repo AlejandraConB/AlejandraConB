@@ -3,8 +3,8 @@
 ¡Hola! Mi nombre es Alejandra soy Desarrolladora Web.
 
 - 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning Node.js and about the cloud.
-- 🤔 I’m looking for help with springboot.
+- 🌱 I’m currently learning Node.js and about the Cloud.
+- 🤔 I’m looking for help with Spring Boot.
 
 <p align="left">Hello World!!</p>
 
@@ -44,12 +44,6 @@
 ###
 
 <div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
