@@ -50,9 +50,9 @@
 ###
 ## Connect with me:
 <div align="left">
-   <a href="https://linkedin.com/in/alejandraconb" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="alejandraconb"  /> 
+   <a href="https://linkedin.com/in/alejandraconb" target="blank" rel="no referer"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin"  /> 
    <img width="12" /></a>
-   <a href="alejandraconb@hotmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook correo"  />
+   <a href="mailto: alejandraconb@hotmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="mailto"  />
 
 ###
 
