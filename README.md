@@ -40,6 +40,7 @@
    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
    <img width="12" />
+  <img align="center" src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
    <div align="left">
 </div>
   
@@ -65,10 +66,3 @@
 ###
 
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
