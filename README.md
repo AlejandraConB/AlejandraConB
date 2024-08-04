@@ -1,6 +1,9 @@
 <img align="right" height="125" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFhOHYzeGpudjA4azg5ZXl1YTBxODllZWMzaTNxdHpqN2tyYXpmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDZJ17fbzWVle68VCB/giphy.webp"  />
 
 ### Hi! I'm a Full Stack Developer, my name is Alejandra. 👋
+##a
+#a
+####a
 
 ¡Hola! Mi nombre es Alejandra, soy Desarrolladora Web. :computer::blue_heart:
 
@@ -85,11 +88,6 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
 </div>
 
 ###
-
-#1a
-##2a
-###3a
-####4a
 
 </div>
 
