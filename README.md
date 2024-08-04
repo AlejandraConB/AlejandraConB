@@ -1,6 +1,6 @@
 <img align="right" height="125" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFhOHYzeGpudjA4azg5ZXl1YTBxODllZWMzaTNxdHpqN2tyYXpmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDZJ17fbzWVle68VCB/giphy.webp"  />
 
-### Hi! I'm a Full Stack Developer, my name is Alejandra. 👋
+### Hi! I'm a Web Developer, my name is Alejandra. 👋
 
 ¡Hola! Mi nombre es Alejandra, soy Desarrolladora Web. :computer::blue_heart:
 
@@ -75,11 +75,11 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
 ###
 <div align="left">
 <img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzbGhzZWtlY2E3ZDJwbHNoMGk4ejIyN2YzbjR5Zmh2bGVteHp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.webp"  />
-<img width="15" />
+<img width="14" />
 <img align="center" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGs1bzhxc3Z2MHd4ejVoOXY3NHNmczI5a3plMWlqZ282NXQ3OWV6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NFA61GS9qKZ68/giphy.webp"  />
-<img width="15" />
+<img width="14" />
 <img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW56NWZuY3QwNm1mZmN0YmRzNGdkaGFreTc4MGI3bXg1OXV1Y3V2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp"  />
-<img width="15" />
+<img width="14" />
 <img align="center" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1iZmFkdzNhY3Jod3p4ZWd4NGI2MmM1NGFkZ3lseW13em8zdTUydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sthmCnCpfr8M8jtTQy/giphy.webp"  />
   <div align="left">
 </div>
