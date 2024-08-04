@@ -67,13 +67,10 @@
 
 </div>
 
-
-
-
-
-
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzbGhzZWtlY2E3ZDJwbHNoMGk4ejIyN2YzbjR5Zmh2bGVteHp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.webp"  />
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGs1bzhxc3Z2MHd4ejVoOXY3NHNmczI5a3plMWlqZ282NXQ3OWV6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NFA61GS9qKZ68/giphy.webp"  />
 
 ###
