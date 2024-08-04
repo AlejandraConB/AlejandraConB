@@ -74,6 +74,6 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://giphy.com/gifs/Lowi-gato-lowi-ordenador-hENDkVRxKsctCpuAun](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzbGhzZWtlY2E3ZDJwbHNoMGk4ejIyN2YzbjR5Zmh2bGVteHp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.webp)"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzbGhzZWtlY2E3ZDJwbHNoMGk4ejIyN2YzbjR5Zmh2bGVteHp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.webp"  />
 
 ###
