@@ -1,6 +1,6 @@
-<div align="right">
+
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFhOHYzeGpudjA4azg5ZXl1YTBxODllZWMzaTNxdHpqN2tyYXpmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDZJ17fbzWVle68VCB/giphy.webp"  />
-<div align="right">
+
 ### Hi! I'm a Full Stack Developer, my name is Alejandra. 👋
 
 ¡Hola! Mi nombre es Alejandra, soy Desarrolladora Web. :computer::blue_heart:
