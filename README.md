@@ -5,8 +5,7 @@
 ¡Hola! Mi nombre es Alejandra, soy Desarrolladora Web. :computer::blue_heart:
 
 - 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning about the Cloud.
-- 🤔 I’m looking for help with Spring Boot.
+- 🌱 I’m currently learning about the Cloud, SQLite and MariaDB. 
 
 <p align="left">Hello World!!</p>
 <img align="center" height="185" 
