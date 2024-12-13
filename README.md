@@ -5,7 +5,8 @@
 ¡Hola! Mi nombre es Alejandra, soy Desarrolladora Web. :computer::blue_heart:
 
 - 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning about the Cloud, SQLite and MariaDB. 
+- 🌱 I’m currently learning about the Cloud, SQLite and MariaDB.
+- 💞 I love drawing ✏️🎨, roller blading 🏃, reading 📚, the math 📝 and the cats 🐱.
 
 <p align="left">Hello World!!</p>
 <img align="center" height="185" 
