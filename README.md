@@ -57,7 +57,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
    <img width="12" />
   <img align="center" src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img align="center" src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
    <div align="left">
 </div>
   
