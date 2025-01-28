@@ -1,6 +1,6 @@
 <img align="right" height="125" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFhOHYzeGpudjA4azg5ZXl1YTBxODllZWMzaTNxdHpqN2tyYXpmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDZJ17fbzWVle68VCB/giphy.webp"  />
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2> Hi! I'm a Web Developer, my name is Alejandra. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! I'm a Web Developer, my name is Alejandra. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola! Mi nombre es **Alejandra**, soy **Desarrolladora Web**. :computer::blue_heart:
 
