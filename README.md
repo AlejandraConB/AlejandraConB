@@ -2,7 +2,7 @@
 
 ### Hi! I'm a Web Developer, my name is Alejandra. 👋  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-¡Hola! Mi nombre es **Alejandra**, soy **Desarrolladora Web**. :computer::blue_heart:
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola! Mi nombre es **Alejandra**, soy **Desarrolladora Web**. :computer::blue_heart:
 
 - 🔭 I’m currently working on my website.
 - 🌱 I’m currently learning about the Cloud, SQLite and MariaDB.
