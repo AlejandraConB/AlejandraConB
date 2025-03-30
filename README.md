@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning about the Cloud, SQLite and MariaDB.
 - 💞 I love drawing ✏️🎨, roller blading 🏃, reading 📚, the math 📝 and the cats 🐱.
 
-<img align="right" src="https://github.com/AlejandraConB/Images/blob/main/Gato-en-el-computador.png" height="200" alt="Gato escribiendo en un computador">
+<img align="right" src="https://github.com/AlejandraConB/Images/blob/main/Gato-en-el-computador.png" height="250" alt="Gato escribiendo en un computador">
 
 <p align="left">Hello World!!</p>
 <img align="center" height="185" 
