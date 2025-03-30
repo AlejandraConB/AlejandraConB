@@ -102,3 +102,6 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
 </div>
 
 ###
+
+
+<img src="https://github.com/AlejandraConB/Images/blob/main/Gato-en-el-computador.png" >
