@@ -104,4 +104,4 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
 ###
 
 
-<img src="https://github.com/AlejandraConB/Images/blob/main/Gato-en-el-computador.png" >
+<img align="center" src="https://github.com/AlejandraConB/Images/blob/main/Gato-en-el-computador.png" height="100" alt="Gato escribiendo en un computador">
