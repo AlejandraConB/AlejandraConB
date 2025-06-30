@@ -19,19 +19,21 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
 
 <div align="left">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-   <img width="12" />
+    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-   <img width="12" />
+    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-   <img width="12" />
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-   <img width="12" />
+    <img width="12" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-   <img width="12" />
+    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-   <img width="12" />
+    <img width="12" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 
 </div>
@@ -46,19 +48,19 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
 
 <div align="left">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-   <img width="12" />
+    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-   <img width="12" />
+    <img width="12" />
   <img align="center" src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
     <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-   <img width="12" />
+    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-   <img width="12" />
+    <img width="12" />
   <img align="center" src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
-   <img width="12" />
+    <img width="12" />
   <img align="center" src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-   <div align="left">
+    <div align="left">
 </div>
   
 ###
@@ -73,11 +75,11 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
 ###
 ## Connect with me:
 <div align="left">
-     <a href="https://www.linkedin.com/in/alejandraconb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="alejandraconb"  /> 
+    <a href="https://www.linkedin.com/in/alejandraconb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="alejandraconb"  /> 
     <a href="mailto: alejandraconb@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="mailto"  />     
-  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  /> 
-   <div align="left">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  /> 
+  <div align="left">
 </div>
 
 ##
@@ -88,13 +90,13 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
 ###
 <div align="left">
 <img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzbGhzZWtlY2E3ZDJwbHNoMGk4ejIyN2YzbjR5Zmh2bGVteHp2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.webp"  />
-<img width="13" />
+  <img width="13" />
 <img align="center" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGs1bzhxc3Z2MHd4ejVoOXY3NHNmczI5a3plMWlqZ282NXQ3OWV6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NFA61GS9qKZ68/giphy.webp"  />
-<img width="13" />
+  <img width="13" />
 <img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRob2d2MmtyM3huNmd6Nm1sYzQ0b2F6aDg4ZjQ2NzA5OWl4YnZyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp"  />
-<img width="13" />
+  <img width="13" />
 <img align="center" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1iZmFkdzNhY3Jod3p4ZWd4NGI2MmM1NGFkZ3lseW13em8zdTUydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sthmCnCpfr8M8jtTQy/giphy.webp"  />
-  <div align="left">
+<div align="left">
 </div>
 
 ###
