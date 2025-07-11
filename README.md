@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola! Mi nombre es **Alejandra**, soy **Desarrolladora Web**. :computer::blue_heart:
 
 - 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning about the Cloud, SQLite and MariaDB.
+- 🌱 I’m currently learning about SQLite, Artificial Inteligence and The Cloud.
 - 💞 I love drawing ✏️🎨, roller blading 🏃, reading 📚, the math 📝 and the cats 🐱.
 
 <img align="right" src="https://github.com/AlejandraConB/Images/blob/main/Gato-en-el-computador.png" height="250" alt="Gato escribiendo en un computador">
