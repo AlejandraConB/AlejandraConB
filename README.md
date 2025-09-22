@@ -1,11 +1,11 @@
 <img align="right" height="125" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFhOHYzeGpudjA4azg5ZXl1YTBxODllZWMzaTNxdHpqN2tyYXpmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cDZJ17fbzWVle68VCB/giphy.webp"  />
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! I'm a Web Developer, my name is Alejandra. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! I'm a Data Engineer, my name is Alejandra. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola! Mi nombre es **Alejandra**, soy **Desarrolladora Web**. :computer::blue_heart:
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola! Mi nombre es **Alejandra**, soy **Data Engineer**. :computer::blue_heart:
 
-- 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning about SQLite, Artificial Intelligence and The Cloud.
+- 🔭 I’m currently working on my portfolio.
+- 🌱 I’m currently learning about PostgreSQL, MariaDB and Artificial Intelligence.
 - 💞 I love drawing ✏️🎨, roller blading 🏃, reading 📚, the math 📝 and the cats 🐱.
 
 <img align="right" src="https://github.com/AlejandraConB/Images/blob/main/Gato-en-el-computador.png" height="250" alt="Gato escribiendo en un computador">
