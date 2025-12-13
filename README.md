@@ -70,7 +70,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
     <a href="mailto: alejandraconb@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="mailto"  />     
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  /> 
-    <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="alejandraconb-dev"  /> 
+    <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  /> 
   <div align="left">
 </div>
 
