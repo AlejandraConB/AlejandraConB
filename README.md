@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola! Mi nombre es **Alejandra**, soy **Data Engineer**. :computer::blue_heart:
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning about PostgreSQL, MariaDB and Artificial Intelligence.
+- 🌱 I’m currently learning about PostgreSQL and Artificial Intelligence.
 - 💞 I love drawing ✏️🎨, roller blading 🏃, reading 📚, the math 📝 and the cats 🐱.
 
 <img align="right" src="https://github.com/AlejandraConB/Images/blob/main/Gato-en-el-computador.png" height="250" alt="Gato escribiendo en un computador">
